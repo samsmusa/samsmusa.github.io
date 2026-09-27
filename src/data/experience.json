@@ -1,0 +1,41 @@
+[
+  {
+    "role": { "de": "Softwareentwickler (KI / ML / Data Engineering)", "en": "Software Engineer (AI / ML / Data Engineering)" },
+    "company": "SoftBD Ltd.",
+    "url": "",
+    "location": { "de": "Dhaka, Bangladesch", "en": "Dhaka, Bangladesh" },
+    "start": "2022-08",
+    "end": "2026-08",
+    "highlights": [
+      {
+        "de": "Skalierbare, microservice-basierte Backend-Architekturen entwickelt, die mehrere großflächige Plattformen tragen, einschließlich REST-APIs und sicherer Authentifizierungsschichten.",
+        "en": "Built scalable, microservice-based backend architectures powering several large platforms, including REST APIs and secure authentication layers."
+      },
+      {
+        "de": "Leistungsfähige ETL-Pipelines konzipiert und betreut, die heterogene Behördendatensätze für das National Portal Framework vereinheitlichen – Grundlage für über 37.000 öffentliche Websites.",
+        "en": "Designed and maintained high-performance ETL pipelines unifying heterogeneous government datasets for the National Portal Framework – the backbone of 37,000+ public websites."
+      },
+      {
+        "de": "KI-gestützte Empfehlungs- und Lernpfad-Engine für Futurenation federführend entwickelt, mit messbarer Steigerung von Personalisierung und Nutzerbindung.",
+        "en": "Led development of an AI-driven recommendation and learning-path engine for Futurenation, measurably improving personalisation and user retention."
+      },
+      {
+        "de": "Sprachgesteuertes KI-System zum Ausfüllen von Formularen federführend entwickelt: natürliche Sprache wird in Echtzeit verstanden und in strukturierte Formulardaten überführt.",
+        "en": "Led development of a voice-driven AI form-filling system that understands natural speech in real time and converts it into structured form data."
+      },
+      {
+        "de": "Bangla-OCR- und CNN-basiertes Dokumentenerfassungssystem entwickelt – Durchsatz von 1,5 auf über 15 Seiten pro Minute gesteigert durch optimierte Vorverarbeitung und parallelisierte Inferenz.",
+        "en": "Built a Bangla OCR and CNN-based document capture system – raising throughput from 1.5 to 15+ pages per minute through optimised preprocessing and parallelised inference."
+      },
+      {
+        "de": "Multimodales Echtzeit-Sprachtelefonie-System entworfen, das innerhalb von 2–5 Sekunden antwortet – ohne Sprach-LLMs, durch Kombination effizienter Spracherkennung, Intent-Erkennung und Antwortsynthese.",
+        "en": "Architected a real-time multimodal voice telephony system responding within 2–5 seconds – without speech LLMs, by combining efficient speech recognition, intent detection and response synthesis."
+      },
+      {
+        "de": "Forschung und Entwicklung im Bereich Computer Vision: Prototypen für Echtzeit-Personenzählung, Aktivitätserkennung und Objektverfolgung.",
+        "en": "Computer vision R&D: prototypes for real-time people counting, activity recognition and object tracking."
+      }
+    ],
+    "tags": ["Python", "FastAPI", "Airflow", "PyTorch", "OCR", "Microservices"]
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "title": { "de": "Maschinelles Lernen & Deep Learning", "en": "Machine Learning & Deep Learning" },
+    "icon": "brain",
+    "items": ["PyTorch", "TensorFlow", "Scikit-learn", "CNNs", "Transformer", "RNNs", "LangChain", "LangGraph"]
+  },
+  {
+    "title": { "de": "Computer Vision", "en": "Computer Vision" },
+    "icon": "eye",
+    "items": [
+      { "de": "Objekterkennung", "en": "Object detection" },
+      { "de": "Bildsegmentierung", "en": "Image segmentation" },
+      "OCR",
+      { "de": "Multimodales Lernen", "en": "Multimodal learning" }
+    ]
+  },
+  {
+    "title": { "de": "Data Engineering", "en": "Data Engineering" },
+    "icon": "workflow",
+    "items": [
+      "Apache Airflow",
+      { "de": "ETL-Pipelines", "en": "ETL pipelines" },
+      { "de": "Datenmigration", "en": "Data migration" },
+      "Feature Engineering",
+      { "de": "Datenvorverarbeitung", "en": "Data preprocessing" }
+    ]
+  },
+  {
+    "title": { "de": "Frontend, Backend & APIs", "en": "Frontend, Backend & APIs" },
+    "icon": "code",
+    "items": ["FastAPI", "Django", "NodeJS", "REST APIs", "ReactJS", "NextJS", "Microservices", "GCP Deployment", "Docker"]
+  },
+  {
+    "title": { "de": "Datenbanken", "en": "Databases" },
+    "icon": "database",
+    "items": [
+      "MySQL",
+      "MongoDB",
+      "Neo4j",
+      { "de": "Vektordatenbanken (Qdrant, FAISS)", "en": "Vector databases (Qdrant, FAISS)" }
+    ]
+  },
+  {
+    "title": { "de": "Mathematik & Modellierung", "en": "Mathematics & Modelling" },
+    "icon": "sigma",
+    "items": [
+      { "de": "Numerische Verfahren", "en": "Numerical methods" },
+      { "de": "Differentialgleichungen", "en": "Differential equations" },
+      { "de": "Lineare Algebra", "en": "Linear algebra" },
+      { "de": "Statistik", "en": "Statistics" },
+      "MATLAB",
+      "C/C++"
+    ]
+  }
+]

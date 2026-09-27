@@ -1,0 +1,51 @@
+[
+  {
+    "degree": { "de": "M.Sc. Angewandte Mathematik für Netzwerk- und Datenwissenschaften", "en": "M.Sc. Applied Mathematics for Network and Data Sciences" },
+    "school": "Hochschule Mittweida",
+    "url": "https://www.hs-mittweida.de",
+    "location": { "de": "Mittweida, Deutschland", "en": "Mittweida, Germany" },
+    "start": "2026-09",
+    "end": null,
+    "grade": null,
+    "details": [],
+    "thesis": null
+  },
+  {
+    "degree": { "de": "B.Sc. Angewandte Mathematik", "en": "B.Sc. Applied Mathematics" },
+    "school": "Noakhali Science and Technology University",
+    "url": "https://nstu.edu.bd",
+    "location": { "de": "Noakhali, Bangladesch", "en": "Noakhali, Bangladesh" },
+    "start": "2016-01",
+    "end": "2022-02",
+    "grade": { "de": "3,46 / 4,00", "en": "3.46 / 4.00" },
+    "details": [
+      {
+        "de": "Methoden der Angewandten Mathematik, Numerische Verfahren, Programmierung (C/C++), Lineare Algebra, Wahrscheinlichkeitsrechnung und Statistik, Differentialgleichungen, Maschinelles Lernen, Mathematische Methoden für vorwärtsgerichtete neuronale Netze, MATLAB.",
+        "en": "Methods of Applied Mathematics, Numerical Methods, Programming (C/C++), Linear Algebra, Probability and Statistics, Differential Equations, Machine Learning, Mathematical Methods for Feed-forward Neural Networks, MATLAB."
+      }
+    ],
+    "thesis": {
+      "title": { "de": "Mathematische Modellierung der Alpha-Phase von COVID-19 in Bangladesch", "en": "Mathematical Modelling of the Alpha Phase of COVID-19 in Bangladesh" },
+      "supervisor": "Mohammed Nizam Uddin, Associate Professor",
+      "period": "2021 – 2022",
+      "points": [
+        {
+          "de": "Epidemiologische Modelle (SIR und logistisches Wachstum) zur Simulation der COVID-19-Ausbreitung in der frühen Phase.",
+          "en": "Epidemiological models (SIR and logistic growth) simulating the early spread of COVID-19."
+        },
+        {
+          "de": "Löser für Differentialgleichungen (Runge-Kutta, ODE45 in MATLAB) zur zeitabhängigen Analyse der Populationsdynamik.",
+          "en": "Differential equation solvers (Runge-Kutta, ODE45 in MATLAB) for time-dependent analysis of population dynamics."
+        },
+        {
+          "de": "Modellvergleich anhand realer Daten und Bewertung über den RMSE mehrerer Monate.",
+          "en": "Model comparison on real data, evaluated by RMSE over several months."
+        },
+        {
+          "de": "Parameteranpassung der Raten α, β und γ; Trendanalyse von März bis November 2020.",
+          "en": "Fitting of rates α, β and γ; trend analysis from March to November 2020."
+        }
+      ]
+    }
+  }
+]

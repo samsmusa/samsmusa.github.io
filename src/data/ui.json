@@ -1,0 +1,55 @@
+{
+  "nav": {
+    "about": { "de": "Profil", "en": "About" },
+    "skills": { "de": "Kenntnisse", "en": "Skills" },
+    "experience": { "de": "Erfahrung", "en": "Experience" },
+    "research": { "de": "Forschung", "en": "Research" },
+    "projects": { "de": "Projekte", "en": "Projects" },
+    "education": { "de": "Ausbildung", "en": "Education" },
+    "contact": { "de": "Kontakt", "en": "Contact" }
+  },
+  "sections": {
+    "about": { "de": "Berufsprofil", "en": "Profile" },
+    "skills": { "de": "Technische Kenntnisse", "en": "Technical Skills" },
+    "experience": { "de": "Berufserfahrung", "en": "Work Experience" },
+    "research": { "de": "Forschungsarbeiten", "en": "Research & Publications" },
+    "projects": { "de": "Ausgewählte Projekte", "en": "Selected Projects" },
+    "education": { "de": "Ausbildung", "en": "Education" },
+    "awards": { "de": "Auszeichnungen & Aktivitäten", "en": "Awards & Activities" },
+    "contact": { "de": "Lassen Sie uns sprechen.", "en": "Let's talk." }
+  },
+  "hero": {
+    "hello": { "de": "Guten Tag, ich bin", "en": "Hello, I'm" },
+    "contact": { "de": "Kontakt aufnehmen", "en": "Get in touch" },
+    "cv": { "de": "Lebenslauf (PDF)", "en": "CV (PDF)" }
+  },
+  "labels": {
+    "present": { "de": "heute", "en": "present" },
+    "since": { "de": "seit", "en": "since" },
+    "grade": { "de": "Abschlussnote", "en": "Final grade" },
+    "coursework": { "de": "Studieninhalte", "en": "Coursework" },
+    "thesis": { "de": "Bachelorarbeit", "en": "Bachelor's thesis" },
+    "supervisor": { "de": "Betreuung", "en": "Supervisor" },
+    "visit": { "de": "Ansehen", "en": "Visit" },
+    "published": { "de": "Veröffentlicht", "en": "Published" },
+    "submitted": { "de": "Eingereicht", "en": "Submitted" },
+    "ongoing": { "de": "In Arbeit", "en": "In progress" },
+    "email": { "de": "E-Mail", "en": "Email" },
+    "phone": { "de": "Telefon", "en": "Phone" },
+    "location": { "de": "Standort", "en": "Location" },
+    "menu": { "de": "Menü", "en": "Menu" },
+    "language": { "de": "Sprache", "en": "Language" },
+    "theme": { "de": "Farbschema wechseln", "en": "Toggle colour scheme" },
+    "backToTop": { "de": "Nach oben", "en": "Back to top" }
+  },
+  "contact": {
+    "text": {
+      "de": "Ob Forschungskooperation, Werkstudentenstelle oder ein spannendes KI-Projekt – ich freue mich auf Ihre Nachricht.",
+      "en": "Whether it's a research collaboration, a working-student role or an exciting AI project – I'd love to hear from you."
+    },
+    "button": { "de": "E-Mail schreiben", "en": "Send an email" }
+  },
+  "footer": {
+    "built": { "de": "Gebaut mit React, Tailwind CSS & shadcn/ui.", "en": "Built with React, Tailwind CSS & shadcn/ui." }
+  }
+}

@@ -1,0 +1,98 @@
+[
+  {
+    "title": "National Portal Framework",
+    "subtitle": { "de": "Staatliche Digitalinfrastruktur", "en": "National digital infrastructure" },
+    "url": "https://bangladesh.gov.bd",
+    "urlLabel": "bangladesh.gov.bd",
+    "description": {
+      "de": "Betreibt über 37.000 Websites von Ministerien, Behörden und nationalen Programmen – zentrale Plattform für Transparenz, Zugänglichkeit und digitale Verwaltung in Bangladesch.",
+      "en": "Powers 37,000+ websites of ministries, agencies and national programmes – the central platform for transparency, accessibility and digital government in Bangladesh."
+    },
+    "highlights": [
+      {
+        "de": "Skalierbare ETL-Pipelines mit Airflow, die Datenaufnahme, -transformation und -auslieferung über tausende Behördenwebsites automatisieren.",
+        "en": "Scalable Airflow ETL pipelines automating ingestion, transformation and delivery across thousands of government websites."
+      },
+      {
+        "de": "ML-Modelle zur Inhaltsklassifikation, die Informationen auf der Plattform besser auffindbar machen.",
+        "en": "ML content-classification models that make information on the platform easier to find."
+      }
+    ],
+    "tags": ["Airflow", "ETL", "ML", "Python"]
+  },
+  {
+    "title": "Futurenation",
+    "subtitle": { "de": "UNDP × Grameenphone", "en": "UNDP × Grameenphone" },
+    "url": "https://platform.futurenation.gov.bd",
+    "urlLabel": "platform.futurenation.gov.bd",
+    "description": {
+      "de": "Lern- und Karriereplattform für junge Menschen mit KI-gestützten Empfehlungen.",
+      "en": "Learning and career platform for young people with AI-powered recommendations."
+    },
+    "highlights": [
+      {
+        "de": "KI-gestütztes Kursempfehlungssystem, das Vorschläge an Nutzerprofil und Kompetenzen anpasst.",
+        "en": "AI course recommendation system tailoring suggestions to user profile and skills."
+      },
+      {
+        "de": "Job-Empfehlungs-Engine: ordnet Nutzer passenden Stellen zu; Recruiter filtern Bewerbungen und planen Gespräche.",
+        "en": "Job recommendation engine matching users to roles; recruiters can filter applications and schedule interviews."
+      },
+      {
+        "de": "Personalisierte Lernpfade für strukturierte Orientierung und kontinuierliche Weiterbildung.",
+        "en": "Personalised learning paths for structured guidance and continuous upskilling."
+      }
+    ],
+    "tags": ["RecSys", "LMS", "Django", "React"]
+  },
+  {
+    "title": "LGI Voice Form-Filling",
+    "subtitle": { "de": "Sprachgesteuertes KI-System", "en": "Voice-driven AI system" },
+    "url": "",
+    "urlLabel": "",
+    "description": {
+      "de": "Für die Local Government Institutions: Nutzer füllen digitale Formulare per natürlicher Sprache aus – manuelle Eingabe entfällt.",
+      "en": "For Local Government Institutions: users fill in digital forms by speaking naturally – no manual typing required."
+    },
+    "highlights": [
+      {
+        "de": "Echtzeit-Spracherkennung, die strukturierte Daten aus gesprochener Sprache gewinnt und die Datenerfassung in Ämtern deutlich beschleunigt.",
+        "en": "Real-time speech recognition extracting structured data from speech, significantly speeding up data entry in offices."
+      },
+      {
+        "de": "Pipeline von Sprache zu Intent auf maximal 5 Sekunden Antwortzeit optimiert – mit Web Speech API, leichtgewichtigem LLM und Intent-Modellen.",
+        "en": "Speech-to-intent pipeline optimised to at most 5 seconds response time – using the Web Speech API, a lightweight LLM and intent models."
+      },
+      {
+        "de": "Mehrstufige Dialogführung, Fehlerkorrektur und Datenvalidierung für eine natürliche Bedienung.",
+        "en": "Multi-turn dialogue, error correction and data validation for natural interaction."
+      }
+    ],
+    "tags": ["Speech", "LLM", "NLP", "Real-time"]
+  },
+  {
+    "title": "DLRM Land Records",
+    "subtitle": { "de": "Digitale Erfassung von Grundbuchakten", "en": "Digitising land records" },
+    "url": "",
+    "urlLabel": "",
+    "description": {
+      "de": "CNN- und Bangla-OCR-basiertes System für das Landwirtschaftsministerium zur Digitalisierung historischer Grundbuchakten.",
+      "en": "CNN and Bangla OCR system for the Ministry of Land to digitise historical land records."
+    },
+    "highlights": [
+      {
+        "de": "OCR- und CNN-Pipeline – Verarbeitung von 1,5 auf über 15 Seiten pro Minute gesteigert.",
+        "en": "OCR and CNN pipeline – processing raised from 1.5 to 15+ pages per minute."
+      },
+      {
+        "de": "Parallelisierte Vorverarbeitung und Inferenz für große Stapel gescannter Dokumente.",
+        "en": "Parallelised preprocessing and inference for large batches of scanned documents."
+      },
+      {
+        "de": "Höhere Datenqualität durch Layoutanalyse, Fehlerkorrektur und intelligente Feldzuordnung.",
+        "en": "Higher data quality through layout analysis, error correction and smart field mapping."
+      }
+    ],
+    "tags": ["OCR", "CNN", "Computer Vision"]
+  }
+]

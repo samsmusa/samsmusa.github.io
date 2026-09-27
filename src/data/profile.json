@@ -1,0 +1,64 @@
+{
+  "name": "Muhammad Samsuddin",
+  "initials": "MS",
+  "title": {
+    "de": "Softwareentwickler (KI / ML)",
+    "en": "Software Engineer (AI / ML)"
+  },
+  "location": {
+    "de": "Mittweida, Deutschland",
+    "en": "Mittweida, Germany"
+  },
+  "status": {
+    "de": "M.Sc.-Student an der Hochschule Mittweida – offen für Forschung & Werkstudentenstellen",
+    "en": "M.Sc. student at Hochschule Mittweida – open to research & working-student roles"
+  },
+  "tagline": {
+    "de": "Ich überführe Forschungsideen in verlässliche, produktionsreife KI-Systeme.",
+    "en": "I turn research ideas into reliable, production-ready AI systems."
+  },
+  "email": "samsmusa@outlook.com",
+  "phone": "+49 151 26046343",
+  "cv": {
+    "de": "/lebenslauf.pdf",
+    "en": "/lebenslauf.pdf"
+  },
+  "links": [
+    { "label": "GitHub", "url": "https://github.com/samsmusa", "icon": "github" },
+    { "label": "LinkedIn", "url": "https://www.linkedin.com/in/samsmusa/", "icon": "linkedin" },
+    { "label": "Google Scholar", "url": "https://scholar.google.com/citations?hl=en&user=37x4a6sAAAAJ", "icon": "scholar" },
+    { "label": "ORCID", "url": "https://orcid.org/0009-0003-4078-5914", "icon": "orcid" }
+  ],
+  "summary": [
+    {
+      "de": "KI-/ML-Softwareentwickler mit ausgeprägter Forschungsorientierung und nachgewiesener Erfahrung im Aufbau skalierbarer, produktionsreifer KI-Systeme mit messbarer Wirkung.",
+      "en": "AI/ML software engineer with a strong research focus and a proven track record of building scalable, production-ready AI systems with measurable impact."
+    },
+    {
+      "de": "Konzeption und Umsetzung großangelegter Datenmigrations-Pipelines für das National Portal (über 37.000 Behördenwebsites) sowie Entwicklung fortgeschrittener KI-Lösungen – darunter KI-Assistenten, ein sprachgesteuertes System zum Ausfüllen digitaler Formulare und personalisierte Empfehlungssysteme.",
+      "en": "Designed and delivered large-scale data migration pipelines for the National Portal (37,000+ government websites) and built advanced AI solutions – including AI assistants, a voice-driven system for filling in digital forms, and personalised recommendation systems."
+    },
+    {
+      "de": "Steigerung von Modelleffizienz und -genauigkeit um bis zu 60 % bei der visuellen Dokumentenerfassung und der automatisierten Datenextraktion. Erfahren über den gesamten ML-Lebenszyklus – von Data Engineering und Modellentwicklung bis zu Deployment und Monitoring.",
+      "en": "Improved model efficiency and accuracy by up to 60% in visual document capture and automated data extraction. Experienced across the full ML lifecycle – from data engineering and model development to deployment and monitoring."
+    }
+  ],
+  "stats": [
+    {
+      "value": { "de": "37.000+", "en": "37,000+" },
+      "label": { "de": "Behördenwebsites, gespeist von meinen ETL-Pipelines", "en": "government websites fed by my ETL pipelines" }
+    },
+    {
+      "value": { "de": "10×", "en": "10×" },
+      "label": { "de": "schnellere Dokumentenerfassung (1,5 → 15+ Seiten/Min.)", "en": "faster document capture (1.5 → 15+ pages/min)" }
+    },
+    {
+      "value": { "de": "95,3 %", "en": "95.3%" },
+      "label": { "de": "Genauigkeit meines Siamese-Netzes (ECCE 2025)", "en": "accuracy of my Siamese network (ECCE 2025)" }
+    },
+    {
+      "value": { "de": "300+", "en": "300+" },
+      "label": { "de": "gelöste Programmieraufgaben", "en": "competitive programming problems solved" }
+    }
+  ]
+}

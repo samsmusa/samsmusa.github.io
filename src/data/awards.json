@@ -1,0 +1,20 @@
+[
+  {
+    "title": { "de": "HackerRank-Zertifikat: React", "en": "HackerRank Certificate: React" },
+    "issuer": "HackerRank",
+    "url": "https://www.hackerrank.com/certificates/9bed4e8bdf30",
+    "icon": "award"
+  },
+  {
+    "title": { "de": "HackerRank-Zertifikat: Problem Solving", "en": "HackerRank Certificate: Problem Solving" },
+    "issuer": "HackerRank",
+    "url": "https://www.hackerrank.com/certificates/c745fe30b98b",
+    "icon": "award"
+  },
+  {
+    "title": { "de": "Wettbewerbsprogrammierung: 300+ gelöste Aufgaben", "en": "Competitive programming: 300+ problems solved" },
+    "issuer": "HackerRank · LeetCode · Online Judges",
+    "url": "",
+    "icon": "trophy"
+  }
+]

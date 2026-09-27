@@ -1,0 +1,61 @@
+[
+  {
+    "title": "A Deep Learning Based Approach for Object Orientation Estimation to Solve MatchKey CAPTCHA Using a Siamese Neural Network",
+    "authors": "M. Samsuddin, M. Sanaullah, M. Hassan",
+    "venue": { "de": "ECCE 2025 (IEEE)", "en": "ECCE 2025 (IEEE)" },
+    "year": 2025,
+    "status": "published",
+    "doi": "10.1109/ECCE64574.2025.11013318",
+    "url": "https://ieeexplore.ieee.org/document/11013318",
+    "summary": {
+      "de": "Ein neuartiges siamesisches neuronales Netz schätzt die Ausrichtung von Objekten über den Vergleich gelernter Embeddings. Ich habe Modellarchitektur und Trainingsstrategie entworfen und 95,3 % Genauigkeit auf einem eigenen CAPTCHA-Datensatz erreicht.",
+      "en": "A novel Siamese neural network estimates object orientation by comparing learned embeddings. I designed the model architecture and training strategy, reaching 95.3% accuracy on a custom CAPTCHA dataset."
+    },
+    "links": []
+  },
+  {
+    "title": "An Open-Source Application for Optimizing Industrial Route Planning with Emission Estimation (RouteShaper)",
+    "authors": "R. Mahmud, P. Helo, M. Samsuddin",
+    "venue": { "de": "Eingereicht bei Annals of Operations Research", "en": "Submitted to Annals of Operations Research" },
+    "year": 2025,
+    "status": "submitted",
+    "doi": "",
+    "url": "",
+    "summary": {
+      "de": "Webbasierter Open-Source-Löser für Tourenplanungsprobleme (VRP) mit CO₂-Emissionsschätzung und einer neuartigen Frischestrafmetrik für verderbliche Güter. Beitrag zu Modellierung, Optimierungsstrategie und Emissionsberichterstattung. Fallstudien: −18,27 % Kosten, −26,00 % Fahrzeit, −18,29 % CO₂.",
+      "en": "Web-based open-source solver for vehicle routing problems (VRP) with CO₂ emission estimation and a novel freshness penalty metric for perishable goods. Contributed to modelling, optimisation strategy and emission reporting. Case studies: −18.27% cost, −26.00% travel time, −18.29% CO₂."
+    },
+    "links": [
+      { "label": "vrp-frontend", "url": "https://github.com/r1azmh/vrp-frontend" },
+      { "label": "vrp-backend", "url": "https://github.com/r1azmh/vrp-backend" }
+    ]
+  },
+  {
+    "title": "Mathematical Modeling on the Transmission of COVID-19 and Its Reproduction Numbers in SAARC Countries",
+    "authors": "M. N. Uddin, S. M. Parvez, H. M. S. Ali, M. Samsuddin, A. N. M. R. Karim",
+    "venue": { "de": "Journal of Applied and Natural Science, Bd. 14(2)", "en": "Journal of Applied and Natural Science, Vol. 14(2)" },
+    "year": 2022,
+    "status": "published",
+    "doi": "10.31018/jans.v14i2.3398",
+    "url": "https://journals.ansfoundation.org/index.php/jans/article/view/3398",
+    "summary": {
+      "de": "SEIR-Modelle zur Schätzung der effektiven Reproduktionszahl Rt von COVID-19 in den SAARC-Staaten. Ich habe Modellierung und Simulationen geleitet und zeitabhängige Übertragungsmuster sichtbar gemacht.",
+      "en": "SEIR models estimating the effective reproduction number Rt of COVID-19 across SAARC countries. I led the modelling and simulations, revealing time-dependent transmission patterns."
+    },
+    "links": []
+  },
+  {
+    "title": "LATTE: Language-Aware Table Transcription and Extraction from Document Images through Structure Parsing and OCR-Enhanced Pretraining",
+    "authors": "M. Samsuddin et al.",
+    "venue": { "de": "Laufende Forschungsarbeit", "en": "Ongoing research" },
+    "year": 2026,
+    "status": "ongoing",
+    "doi": "",
+    "url": "",
+    "summary": {
+      "de": "Einheitliches Framework aus Vision-Language-Modellen und LLMs für robuste Tabellenextraktion und tabellenbasiertes Question Answering. Ich habe Architektur, Pretraining-Ziele und Evaluationspipeline konzipiert.",
+      "en": "A unified framework of vision-language models and LLMs for robust table extraction and table-based question answering. I designed the architecture, pretraining objectives and evaluation pipeline."
+    },
+    "links": []
+  }
+]
